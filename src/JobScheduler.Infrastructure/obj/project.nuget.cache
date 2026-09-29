@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "oku5RlqxB2A=",
+  "success": true,
+  "projectFilePath": "/home/boi/Documents/GitHub/JobScheduler/src/JobScheduler.Infrastructure/JobScheduler.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/home/boi/.nuget/packages/dapper/2.1.89/dapper.2.1.89.nupkg.sha512",
+    "/home/boi/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "/home/boi/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0/microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "/home/boi/.nuget/packages/npgsql/10.0.3/npgsql.10.0.3.nupkg.sha512",
+    "/home/boi/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

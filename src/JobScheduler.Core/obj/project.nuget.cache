@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fCozXQWi3RY=",
+  "success": true,
+  "projectFilePath": "/home/boi/Documents/GitHub/JobScheduler/src/JobScheduler.Core/JobScheduler.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/boi/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
