@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JobScheduler.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ac7109085aa7776b1a39224c87b4998e1b807da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a56919bed3ad87a25bca7a9a2400f127799e951")]
 [assembly: System.Reflection.AssemblyProductAttribute("JobScheduler.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JobScheduler.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
